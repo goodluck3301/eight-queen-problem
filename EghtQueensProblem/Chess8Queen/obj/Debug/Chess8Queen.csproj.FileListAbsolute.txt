@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\bin\Debug\Chess8Queen.exe.config
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\bin\Debug\Chess8Queen.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\bin\Debug\Chess8Queen.pdb
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen_MarkupCompile.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen_MarkupCompile.lref
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen.g.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen.Properties.Resources.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Վահրամ [C# Անհատական Կուրսային]\Chess8Queen\Chess8Queen\obj\Debug\Chess8Queen.pdb
