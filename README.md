@@ -1,4 +1,4 @@
-# 8QueensProblem
+# 8 Queens Problem
 The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.
 # 
 The problem of finding all solutions to the 8-queens problem can be quite computationally expensive, as there are 4,426,165,368 possible arrangements of eight queens on an 8×8 board,[a] but only 92 solutions. It is possible to use shortcuts that reduce computational requirements or rules of thumb that avoids brute-force computational techniques. For example, by applying a simple rule that chooses one queen from each column, it is possible to reduce the number of possibilities to 16,777,216 (that is, 88) possible combinations. Generating permutations further reduces the possibilities to just 40,320 (that is, 8!), which can then be checked for diagonal attacks.
